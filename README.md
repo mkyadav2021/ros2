@@ -1,0 +1,1 @@
+A simulated TurtleBot 4 autonomously explores and maps an unknown environment using a custom Python frontier-detection node, with SLAM Toolbox for occupancy-grid mapping and Nav2 for navigation. Built on ROS 2 Jazzy and Gazebo Harmonic (Ubuntu 24.04).
